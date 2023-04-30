@@ -1,18 +1,18 @@
 // functions
 function add(mainNumber, targetNumber) {
-  return mainNumber + targetNumber;
+  return targetNumber + mainNumber;
 }
 
 function subtract(mainNumber, targetNumber) {
-  return mainNumber - targetNumber;
+  return targetNumber - mainNumber;
 }
 
 function multiply(mainNumber, targetNumber) {
-  return mainNumber * targetNumber;
+  return targetNumber * mainNumber;
 }
 
 function divide(mainNumber, targetNumber) {
-  return mainNumber / targetNumber;
+  return targetNumber / mainNumber;
 }
 
 // variables
